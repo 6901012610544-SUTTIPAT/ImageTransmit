@@ -189,5 +189,5 @@ void setup() {
 
 void loop() {
   handleTransmitter();
-  //handleReceiver();
+  handleReceiver();
 }
